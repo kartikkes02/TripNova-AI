@@ -1,0 +1,29 @@
+# ENV FILES
+# =====================
+.env
+.env.*
+!.env.example
+
+# =====================
+# PYTHON CACHE FILES
+# =====================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# Caches and test artifacts
+.mypy_cache/
+.pytest_cache/
+
+# Local env files
+.env
+
+# Editor directories
+.vscode/
+.idea/
