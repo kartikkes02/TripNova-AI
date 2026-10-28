@@ -2,16 +2,6 @@
 
 TripNova AI is a full-stack AI-powered travel planning web application that helps users generate smart travel itineraries, explore destinations, discover attractions, check weather updates, and interact with an AI travel assistant. The application combines AI-powered itinerary generation, FastAPI + Python backend services, and a modern React + Vite frontend — deployed using Netlify or Vercel (Frontend) and Render (Backend).
 
-
-# DEPLOYMENT LINK
-
-Frontend Deployment (Netlify): https://tripwithbinod.netlify.app
-
-Frontend Deployment (Vercel): https://tripwithbinod.vercel.app
-
-Backend Deployment (Render): https://tripadvisor-binodkapadi.onrender.com
-
-
 # PROJECT SETUP
 
 npm = Node Package Manager
