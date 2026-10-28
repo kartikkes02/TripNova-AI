@@ -11,9 +11,6 @@ Frontend Deployment (Vercel): https://tripwithbinod.vercel.app
 
 Backend Deployment (Render): https://tripadvisor-binodkapadi.onrender.com
 
-## 📺 YouTube Video 
-
-**Link ->** https://youtu.be/2_8du8OnRwU
 
 # PROJECT SETUP
 
