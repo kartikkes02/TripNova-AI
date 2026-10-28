@@ -66,7 +66,7 @@ export default function Footer() {
 
           {/* Copyright */}
           <div className="text-center text-xs text-[color:var(--text-muted)] border-t border-[color:var(--glass-border)] pt-8 w-full">
-            <div className="text-sm text-[color:var(--text-soft)] mb-1">Copyright © by Binod Kapadi</div>
+            <div className="text-sm text-[color:var(--text-soft)] mb-1">Copyright © by Vansh Nagpal, Kartikeya Kesarvani</div>
             <div>All Rights Reserved — 2026</div>
           </div>
         </div>
