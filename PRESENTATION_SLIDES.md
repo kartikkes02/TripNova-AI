@@ -202,11 +202,4 @@
 - **Conclusion:**  
   AI Trip Planner (TripNova) demonstrates how Generative AI combined with modern full-stack web technologies can effectively eliminate travel planning complexity and save valuable time.  
 
-- **Live Deployment URLs:**  
-  - 🌐 **Frontend:** [tripwithbinod.netlify.app](https://tripwithbinod.netlify.app)  
-  - 🌐 **Frontend (Vercel):** [tripwithbinod.vercel.app](https://tripwithbinod.vercel.app)  
-  - ⚙️ **Backend:** [tripadvisor-binodkapadi.onrender.com](https://tripadvisor-binodkapadi.onrender.com)  
-
 ---
-
-## ❓ Thank You! Any Questions?
