@@ -251,11 +251,6 @@ After completing your work:
 
     cd ..
 
-eg=>
-
-PS C:\Users\binod\OneDrive - ioepc.edu.np\Desktop\TripAdvisor\frontend> cd ..
-
-PS C:\Users\binod\OneDrive - ioepc.edu.np\Desktop\TripAdvisor> 
 
 
 # FEATURES
@@ -295,17 +290,3 @@ PS C:\Users\binod\OneDrive - ioepc.edu.np\Desktop\TripAdvisor>
 * SerpAPI
 * OpenWeather API
 * SMTP Email Service
-
-# DEPLOYMENT
-
-### Frontend Hosting
-
-* Netlify
-
-### Backend Hosting
-
-* Render
-
-# AUTHOR
-
-Binod Kapadi
