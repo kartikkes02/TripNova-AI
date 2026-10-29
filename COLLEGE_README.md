@@ -75,10 +75,4 @@ The key objectives of this minor project are to minimize travel preparation effo
 - 📧 **Itinerary Export:** Direct email dispatch of travel plans to users.
 - 📱 **Responsive UI:** Dynamic navigation and modern design built for mobile and desktop devices.
 
----
 
-## 5. Deployment Links
-
-- **Frontend Deployment (Netlify):** [https://tripwithbinod.netlify.app](https://tripwithbinod.netlify.app)
-- **Frontend Deployment (Vercel):** [https://tripwithbinod.vercel.app](https://tripwithbinod.vercel.app)
-- **Backend Deployment (Render):** [https://tripadvisor-binodkapadi.onrender.com](https://tripadvisor-binodkapadi.onrender.com)
