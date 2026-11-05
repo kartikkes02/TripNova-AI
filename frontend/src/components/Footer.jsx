@@ -10,14 +10,14 @@ import linkedinIcon from '../images/linkden.png'
 import youtubeIcon from '../images/youtube.jpg'
 
 const social = [
-  { src: fbIcon, href: 'https://www.facebook.com/royalbinod.kapadi', label: 'Facebook' },
-  { src: discordIcon, href: 'https://discord.com/users/1020520872206938153', label: 'Discord' },
-  { src: githubIcon, href: 'https://github.com/binodkapadi', label: 'GitHub' },
-  { src: instagramIcon, href: 'https://www.instagram.com/binodbhatt9865', label: 'Instagram' },
-  { src: telegramIcon, href: 'https://t.me/errevolution1', label: 'Telegram' },
-  { src: twitterIcon, href: 'https://x.com/KapadiBinod', label: 'Twitter' },
-  { src: linkedinIcon, href: 'https://www.linkedin.com/in/binodkapadi', label: 'LinkedIn' },
-  { src: youtubeIcon, href: 'https://www.youtube.com/@errevolution1', label: 'YouTube' }
+  { src: fbIcon, href: 'https://www.facebook.com', label: 'Facebook' },
+  { src: discordIcon, href: 'https://discord.com', label: 'Discord' },
+  { src: githubIcon, href: 'https://github.com/kartikkes02/', label: 'GitHub' },
+  { src: instagramIcon, href: 'https://www.instagram.com', label: 'Instagram' },
+  { src: telegramIcon, href: 'https://t.me', label: 'Telegram' },
+  { src: twitterIcon, href: 'https://x.com', label: 'Twitter' },
+  { src: linkedinIcon, href: 'https://www.linkedin.com', label: 'LinkedIn' },
+  { src: youtubeIcon, href: 'https://www.youtube.com', label: 'YouTube' }
 ]
 
 export default function Footer() {
