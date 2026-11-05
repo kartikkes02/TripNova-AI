@@ -264,7 +264,7 @@ export default function HomePage() {
               <span className="text-3xl">✉️</span>
             </div>
             <div className="text-xs font-semibold uppercase tracking-[0.3em] text-orange-200/90">Email</div>
-            <div className="mt-4 text-base font-semibold text-white">binoddattkapadi@gmail.com</div>
+            <div className="mt-4 text-base font-semibold text-white">tripnova@gmail.com</div>
           </motion.div>
           <motion.div
             className="group rounded-3xl border border-white/10 bg-white/10 p-8 text-center shadow-[0_18px_45px_rgba(0,0,0,0.18)] backdrop-blur-xl transition hover:-translate-y-1 hover:border-cyan-300/30 hover:bg-white/15"
@@ -274,7 +274,7 @@ export default function HomePage() {
               <span className="text-3xl">📞</span>
             </div>
             <div className="text-xs font-semibold uppercase tracking-[0.3em] text-cyan-200/90">Phone</div>
-            <div className="mt-4 text-base font-semibold text-white">+977 9840047473</div>
+            <div className="mt-4 text-base font-semibold text-white">+91 123 4567 891</div>
           </motion.div>
           <motion.div
             className="group rounded-3xl border border-white/10 bg-white/10 p-8 text-center shadow-[0_18px_45px_rgba(0,0,0,0.18)] backdrop-blur-xl transition hover:-translate-y-1 hover:border-violet-300/30 hover:bg-white/15"
