@@ -284,7 +284,7 @@ export default function HomePage() {
               <span className="text-3xl">📍</span>
             </div>
             <div className="text-xs font-semibold uppercase tracking-[0.3em] text-violet-200/90">Location</div>
-            <div className="mt-4 text-base font-semibold text-white">Kathmandu, Nepal</div>
+            <div className="mt-4 text-base font-semibold text-white">Delhi,India</div>
           </motion.div>
         </div>
       </SectionShell>
