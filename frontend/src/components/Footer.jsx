@@ -14,7 +14,6 @@ const social = [
   { src: discordIcon, href: 'https://discord.com', label: 'Discord' },
   { src: githubIcon, href: 'https://github.com/kartikkes02/', label: 'GitHub' },
   { src: instagramIcon, href: 'https://www.instagram.com', label: 'Instagram' },
-  { src: telegramIcon, href: 'https://t.me', label: 'Telegram' },
   { src: twitterIcon, href: 'https://x.com', label: 'Twitter' },
   { src: linkedinIcon, href: 'https://www.linkedin.com', label: 'LinkedIn' }
 ]
