@@ -16,8 +16,7 @@ const social = [
   { src: instagramIcon, href: 'https://www.instagram.com', label: 'Instagram' },
   { src: telegramIcon, href: 'https://t.me', label: 'Telegram' },
   { src: twitterIcon, href: 'https://x.com', label: 'Twitter' },
-  { src: linkedinIcon, href: 'https://www.linkedin.com', label: 'LinkedIn' },
-  { src: youtubeIcon, href: 'https://www.youtube.com', label: 'YouTube' }
+  { src: linkedinIcon, href: 'https://www.linkedin.com', label: 'LinkedIn' }
 ]
 
 export default function Footer() {
