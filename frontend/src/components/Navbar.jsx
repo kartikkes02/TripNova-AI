@@ -56,7 +56,7 @@ export default function Navbar({ isHome }) {
             <span className="text-xl">✈︎</span>
           </motion.div>
           <div className="leading-tight">
-            <div className="text-sm font-semibold text-[color:var(--text)]">TripAdvisor</div>
+            <div className="text-sm font-semibold text-[color:var(--text)]">TripNova AI</div>
             <div className="hidden text-xs text-[color:var(--text-muted)] md:block">AI-powered travel planning</div>
           </div>
         </Link>
